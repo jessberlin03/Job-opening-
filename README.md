@@ -4,6 +4,7 @@ Expaway
 
 On behalf of our client, a leading Internet accommodation Company in Berlin, we are currently accepting resumes for the following professional opportunity:
 FRONT-END DEVELOPER (BERLIN)
+
 The Company is looking for a Front-End Developer to program and design features for their localized websites.
 YOUR RESPONSIBILITIES
 • Independently develop and implement new features for domains visited by hundreds of thousands users
